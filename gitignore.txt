@@ -1,0 +1,5 @@
+### Batch ###
+# BatchFiles
+*.bat
+*.cmd
+*.btm
