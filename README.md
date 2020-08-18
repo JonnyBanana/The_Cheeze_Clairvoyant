@@ -18,10 +18,12 @@ So why not delegate the choice to a machine ...
 
 The cheese seer is ready to take the stress for you ...
 
-5 attacks and only 3 choices: FIRE, WATER: WIND
-
 <BR>
   
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/The_Cheeze_Clairvoyant/master/img/CHEEZE_CLAIRVOYANT.PNG)
+
+<BR>
+  
+5 attacks and only 3 choices: FIRE, WATER, WIND
 
 <BR>
