@@ -31,3 +31,20 @@ The Cheese Clairvoyant is ready to take the stress for you!!!
 <b>ENJOY THE BATTLE!</b>
 
 <BR>
+  
+<h5>Requirements</h5>
+
+Python 3
+
+os
+
+random
+
+<BR>
+
+<h5>Compatibility</h5>
+
+Windows Os
+
+The program is written to run on Windows systems, but just change the os commands to adapt it to Unix systems
+
