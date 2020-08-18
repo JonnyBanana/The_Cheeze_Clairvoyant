@@ -17,9 +17,7 @@ Battles can be very stressful, and mold advances...
 So why not delegate the choice to a machine...
 
 The Cheese Clairvoyant is ready to take the stress for you!!!
-
-<BR>
-  
+<BR>  
 <h4>Requirements</h4>
 
 Python 3
