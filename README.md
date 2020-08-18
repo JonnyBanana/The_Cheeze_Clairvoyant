@@ -34,6 +34,18 @@ The program is written to run on Windows systems, but just change the os command
 
 <BR>
   
+<h4>Download</h4> 
+
+You can directly download the executable file from here: 
+
+https://github.com/JonnyBanana/The_Cheeze_Clairvoyant/releases/tag/cheezeclairvoyant
+
+If it gives you any errors just download Visual C ++ from here:
+
+https://support.microsoft.com/en-ca/help/2977003/the-latest-supported-visual-c-downloads
+
+<BR>
+  
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/The_Cheeze_Clairvoyant/master/img/CHEEZE_CLAIRVOYANT.PNG)
 
 <BR>
