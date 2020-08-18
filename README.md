@@ -31,8 +31,6 @@ random module
 Windows Os
 
 The program is written to run on Windows systems, but just change the os commands to adapt it to Unix systems.
-
-<BR>
   
 <h4>Download</h4> 
 
