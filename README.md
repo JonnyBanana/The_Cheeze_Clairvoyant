@@ -19,11 +19,7 @@ So why not delegate the choice to a machine...
 The Cheese Clairvoyant is ready to take the stress for you!!!
 
 <BR>
-  
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/The_Cheeze_Clairvoyant/master/img/CHEEZE_CLAIRVOYANT.PNG)
 
-<BR>
-  
 5 attacks and only 3 choices: FIRE, WATER, WIND.
 
 <BR>
@@ -46,5 +42,9 @@ random module
 Windows Os
 
 The program is written to run on Windows systems, but just change the os commands to adapt it to Unix systems.
+  
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/The_Cheeze_Clairvoyant/master/img/CHEEZE_CLAIRVOYANT.PNG)
+
+
 
 <BR>
