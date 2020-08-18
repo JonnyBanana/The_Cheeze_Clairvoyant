@@ -12,11 +12,11 @@ We are in 2020 and autumn is approaching ...
 
 The next Cheeze Wizards tournament could be upon us!
 
-Battles can be very stressful, and mold advances ....
+Battles can be very stressful, and mold advances...
 
-So why not delegate the choice to a machine ...
+So why not delegate the choice to a machine...
 
-The cheese seer is ready to take the stress for you ...
+The Cheese Clairvoyant is ready to take the stress for you!!!
 
 <BR>
   
@@ -24,6 +24,10 @@ The cheese seer is ready to take the stress for you ...
 
 <BR>
   
-5 attacks and only 3 choices: FIRE, WATER, WIND
+5 attacks and only 3 choices: FIRE, WATER, WIND.
+
+<BR>
+  
+<b>ENJOY THE BATTLE!</b>
 
 <BR>
