@@ -9,6 +9,7 @@
 <BR>
 
 We are in 2020 and autumn is approaching ...
+
 The next Cheeze Wizards tournament could be upon us!
 
 Battles can be very stressful, and mold advances ....
