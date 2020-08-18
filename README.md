@@ -36,15 +36,15 @@ The Cheese Clairvoyant is ready to take the stress for you!!!
 
 Python 3
 
-os
+os module
 
-random
+random module
 
 
 <h4>Compatibility</h4>
 
 Windows Os
 
-The program is written to run on Windows systems, but just change the os commands to adapt it to Unix systems
+The program is written to run on Windows systems, but just change the os commands to adapt it to Unix systems.
 
 <BR>
