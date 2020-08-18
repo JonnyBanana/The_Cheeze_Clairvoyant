@@ -32,7 +32,7 @@ The Cheese Clairvoyant is ready to take the stress for you!!!
 
 <BR>
   
-<h5>Requirements</h5>
+<h4>Requirements</h4>
 
 Python 3
 
@@ -40,11 +40,11 @@ os
 
 random
 
-<BR>
 
-<h5>Compatibility</h5>
+<h4>Compatibility</h4>
 
 Windows Os
 
 The program is written to run on Windows systems, but just change the os commands to adapt it to Unix systems
 
+<BR>
