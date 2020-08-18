@@ -34,7 +34,7 @@ The program is written to run on Windows systems, but just change the os command
   
 <h4>Download</h4> 
 
-You can directly download the executable file from here: 
+If you don't have Python you can directly download the executable file from here: 
 
 https://github.com/JonnyBanana/The_Cheeze_Clairvoyant/releases/tag/cheezeclairvoyant
 
