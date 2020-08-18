@@ -28,7 +28,6 @@ os module
 
 random module
 
-
 <h4>Compatibility</h4>
 
 Windows Os
